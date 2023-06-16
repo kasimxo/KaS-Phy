@@ -6,7 +6,7 @@ public class Core {
 	private int posX;
 	private int posY;
 	private int force = 100;
-	private int size = 20;
+	private int size = 40;
 	private Color color = Color.black;
 	
 	public Core(int x, int y) {
